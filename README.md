@@ -2,7 +2,7 @@
 
 ## 🎯 Overview
 
-This repository provides a **comprehensive hands-on workshop** for implementing **GenAI MLOps using Langfuse** integrated with **AWS Bedrock**. It demonstrates production-ready patterns for LLM observability, monitoring, and operational excellence.
+This repository is based on the great work of AWS team (https://github.com/aws-samples/genai-ml-platform-examples/tree/main/integration) with minor changes on versioning and Langfuse integration. It provides a **comprehensive hands-on workshop** for implementing **GenAI MLOps using Langfuse** integrated with **AWS Bedrock**. It demonstrates production-ready patterns for LLM observability, monitoring, and operational excellence.
 
 ## 🚀 Quick Start
 
